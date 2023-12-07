@@ -58,4 +58,3 @@ scholarship applications, ultimately making educational opportunities more acces
 ![Screenshot 2023-12-07 001350](https://github.com/NinaMariz/Online-Scholarship-System/assets/149125304/6be57fe2-efe4-4e5b-932d-2f1c6932085c)
 ![Screenshot 2023-12-07 001409](https://github.com/NinaMariz/Online-Scholarship-System/assets/149125304/d05253e7-2a5f-4ea3-9aed-8c4e1331933a)
 ![Screenshot 2023-12-07 001503](https://github.com/NinaMariz/Online-Scholarship-System/assets/149125304/4c0dd35e-b781-4d6b-9347-69aa470bcc1f)
-![Screenshot 2023-12-07 001555](https://github.com/NinaMariz/Online-Scholarship-System/assets/149125304/f3977d0e-703c-4e3a-95d1-d8147cc2f9f9)
