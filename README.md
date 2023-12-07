@@ -40,8 +40,13 @@ Trasporto has made a complete 100% contribution to our project. Serving as the l
 
 
 Brief Summary
+
 The Improved Online Scholarship System was designed specifically for High School, Senior High School, and College students, aiming to enhance accessibility and convenience in their application process. While the existing system is functional, it lacks certain features crucial for a more streamlined and hassle-free experience. Recognizing this, the developers made the decision to enhance the current EBD Scholarship System of the Batangas City Government.
 This initiative aligns with the Sustainable Development Goals (SDGs), particularly contributing to Goal 4: Quality Education. By improving the scholarship system, the developers are actively supporting efforts to ensure inclusive and equitable quality education for all, promoting lifelong learning opportunities, and fostering a culture of innovation and excellence in education. The enhanced system aims to facilitate scholarship applications, ultimately making educational opportunities more accessible and aligned with global sustainability objectives.
+
+
+
+
 
 Technologies used
 
