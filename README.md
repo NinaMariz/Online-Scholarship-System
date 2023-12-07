@@ -1,6 +1,7 @@
 # Online-Scholarship-System
 
 Members:
+
 Aldea, Eufemia, R.  
 Aldea has achieved a 100% contribution to our project. She possesses proficient front-end programming skills and successfully executed 
 the graphical user interface (GUI) for our system.   
@@ -25,6 +26,7 @@ proficiency in both front-end and back-end development. His exemplary execution 
 
 
 Brief Summary
+
 The Improved Online Scholarship System was designed specifically for High School, Senior High School, and College students, aiming to enhance 
 accessibility and convenience in their application process. While the existing system is functional, it lacks certain features crucial for a 
 more streamlined and hassle-free experience. Recognizing this, the developers made the decision to enhance the current EBD Scholarship System 
