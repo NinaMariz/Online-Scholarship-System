@@ -1,0 +1,227 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(rgba(51, 204, 67, 0.534), rgba(141, 228, 124, 0.61)),url(../pics/bats.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    display: block;
+    
+}
+
+nav {
+    color: #fff;
+    background-color: #23642c;
+    font-family: 'Noto Sans Georgian', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.left {
+    font-family: 'Noto Sans Georgian', sans-serif;
+    flex: 1;
+}
+
+.left p {
+    margin: 0;
+}
+
+.center {
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center the logos horizontally */
+    width: 100%; /* Ensure the container takes up the full width */
+}
+
+.logo-container img {
+    width: 50px; /* Adjust the width as needed */
+    margin: 0 5px; /* Adjust the margin for spacing between logos */
+}
+
+.right {
+    flex: 1;
+    text-align: right;
+}
+
+.right ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.right li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.right a {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+
+/*login*/
+
+.login-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.login-container {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0px 50px 20px -20px rgba(0, 0, 0, 0.5); /* Add shadow below the box */
+    width: 500px; /* Make the login box wider */
+    position: relative; /* Enable relative positioning */
+    top: -100px; /* Move the login container up by adjusting the 'top' property */
+    height: 270px;
+    
+}
+
+h1 {
+    color:#23642c;
+    font-size: 20px;
+    font-family: 'Gabarito', sans-serif;
+
+}
+.header {
+    text-align: center;
+    margin-bottom: 20px; /* Add margin to separate the header from the login container */
+    
+}
+
+.header h2{
+    color: #fff; /* Text color */
+    padding: 20px; /* Add padding to give the text background */
+    margin: 0; /* Remove the default margin */
+    font-family: 'Gabarito', sans-serif;
+    font-size: 30px;
+    position: relative; /* Enable relative positioning */
+    top: -60px; /* Move the text up by adjusting the 'top' property */
+    font-size: 60px;
+}
+
+.header h3{
+    color: #23642c; /* Text color */
+    padding: 20px; /* Add padding to give the text background */
+    margin: 0; /* Remove the default margin */
+    font-family: 'Gabarito', sans-serif;
+    font-size: 30px;
+    position: relative; /* Enable relative positioning */
+    top: -100px; /* Move the text up by adjusting the 'top' property */
+}
+
+.header h2 span{
+    text-shadow: 2px 5px 3px rgba(0, 0, 0, 0.5); /* Add shadow effect to each letter */
+    display: inline-block;
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+
+
+
+button {
+    background-color: #386641;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    padding: 11px 25px;
+    cursor: pointer;
+    margin: 0 auto; /* Add this line to center the button horizontally */
+    display: block; /* Add this line to make the margin: 0 auto; work */
+    font-size: 10px;
+}
+
+button:hover {
+    background-color: #070606;
+    transition: 0.5s;
+}
+
+input{
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    width: 460px;
+    border-radius: 5px;
+    background-color: #D9D9D9;
+}
+
+.forget{
+    color:#23642c;
+    text-decoration: none;
+    margin-top: 90px; /* Add margin to separate it from the input fields */
+    position: absolute; /* Enable absolute positioning */
+    bottom: 55px; /* Position at the bottom of the login container */
+    right: 30px; /* Position at the right of the login container */
+    font-size: 14px;
+    font-family: 'Gabarito', sans-serif;
+    
+}
+
+.signup{
+    color:#23642c;
+    text-decoration: none;
+    margin-top: 10px; /* Add margin to separate it from the "Forgot Password?" link */
+    position: absolute; /* Enable absolute positioning */
+    bottom: 35px; /* Position at the bottom of the login container */
+    right: 30px; /* Position at the left of the login container */
+    font-size: 14px;
+    font-family: 'Gabarito', sans-serif;
+}
+
+.error-notification {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ff3333;
+    color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    z-index: 999;
+}
+
+.error-notification p {
+    margin: 0;
+}
+
+.error-notification .close {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+/*___________________________basic________________________________*/
+  .checkbox-label {
+        display: block;
+                 margin-bottom: 10px;
+        }
+     .checkbox-input {
+       margin-right: 10px;
+             }

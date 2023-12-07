@@ -1,0 +1,128 @@
+/* Default styles for all devices */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(rgba(51, 204, 67, 0.534), rgba(141, 228, 124, 0.61)), url(../pics/bats.jpg);
+    background-size: cover;
+    display: block;
+    color: #fff;
+}
+
+nav {
+    color: #fff;
+    background-color: #23642c;
+    font-family: 'Noto Sans Georgian', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.left {
+    font-family: 'Noto Sans Georgian', sans-serif;
+    flex: 1;
+}
+
+.left p {
+    margin: 0;
+}
+
+.center {
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    
+}
+
+.logo-container img {
+    width: 50px;
+    margin: 0 5px;
+}
+
+.right {
+    flex: 1;
+    text-align: right;
+}
+
+.right ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.right li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.right a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.right ul i {
+    margin-right: 5px;
+    font-size: 18px;
+}
+
+.content{
+margin-top: 50px;
+margin-left: 90px;
+width: 55%
+
+}
+
+h1{
+    font-size: 45px;
+    color: #fff;
+}
+
+hr{
+    size: 50%;
+}
+
+.hero-btn{
+    background-color: #ffffff;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+  
+  .hero-btn1{
+      background-color: #ffffff;
+      border: none;
+      color: black;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      margin: 4px 2px;
+      cursor: pointer;
+      border-radius: 16px;
+    }
+  
+  .hero-btn:hover{
+      border: 1px solid #15ff00;
+      background: #15ff00;
+      transition: 0.56s;
+  }
+  
+  .hero-btn1:hover{
+      border: 1px solid #15ff00;
+      background: #15ff00;
+      transition: 0.56s;
+  }

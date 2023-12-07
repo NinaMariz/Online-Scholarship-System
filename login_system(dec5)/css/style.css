@@ -1,0 +1,318 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+
+body {
+
+   
+}
+*{
+   font-family: 'Poppins', sans-serif;
+   margin:0; padding:0;
+   box-sizing: border-box;
+   outline: none; border:none;
+   text-decoration: none;
+}
+
+.container{
+   min-height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding:20px;
+   padding-bottom: 60px;
+}
+
+.container .content{
+   text-align: center;
+}
+
+.container .content h3{
+   font-size: 30px;
+   color:#333;
+}
+
+.container .content h3 span{
+   background: crimson;
+   color:#fff;
+   border-radius: 5px;
+   padding:0 15px;
+}
+
+.container .content h1{
+   font-size: 50px;
+   color:#333;
+}
+
+.container .content h1 span{
+   color:crimson;
+}
+
+.container .content p{
+   font-size: 25px;
+   margin-bottom: 20px;
+}
+
+.container .content .btn{
+   display: inline-block;
+   padding:10px 30px;
+   font-size: 20px;
+   background: #333;
+   color:#fff;
+   margin:0 5px;
+   text-transform: capitalize;
+}
+
+.container .content .btn:hover{
+   background: crimson;
+}
+
+.form-container{
+   min-height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding:20px;
+   padding-bottom: 60px;
+
+   background-image: linear-gradient(rgba(51, 204, 67, 0.534), rgba(141, 228, 124, 0.61)),url(bats/pics.jpg);
+   background-position: center;
+   background-size: cover;
+
+}
+
+.form-container form{
+   padding:20px;
+   border-radius: 5px;
+   box-shadow: 0 5px 10px rgba(0,0,0,.1);
+   background: #fff;
+   text-align: center;
+   width: 500px;
+}
+
+.form-container form h3{
+   font-size: 30px;
+   text-transform: uppercase;
+   margin-bottom: 10px;
+   color:#333;
+}
+
+.form-container form input,
+.form-container form select{
+   width: 100%;
+   padding:10px 15px;
+   font-size: 17px;
+   margin:8px 0;
+   background: #eee;
+   border-radius: 5px;
+}
+
+.form-container form select option{
+   background: #fff;
+}
+
+.form-container form .form-btn{
+       
+
+   background:#386641;
+   color: #fff;
+   border: none;
+   cursor: pointer;
+   font-size: 10px;
+
+
+}
+
+.form-container form .form-btn:hover{
+   background: crimson;
+   color:#fff;
+}
+
+.form-container form p{
+   margin-top: 10px;
+   font-size: 20px;
+   color:#333;
+}
+
+.form-container form p a{
+   color:crimson;
+}
+
+.form-container form .error-msg{
+   margin:10px 0;
+   display: block;
+   background: crimson;
+   color:#fff;
+   border-radius: 5px;
+   font-size: 20px;
+   padding:10px;
+}
+
+
+
+.nav {
+   color: #fff;
+   background-color: #23642c;
+   font-family: 'Noto Sans Georgian', sans-serif;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 10px 20px;
+}
+
+.left {
+   font-family: 'Noto Sans Georgian', sans-serif;
+   flex: 1;
+}
+
+.left p {
+   margin: 0;
+}
+
+.center {
+   flex: 1;
+   display: flex;
+   align-items: center;
+}
+
+.logo-container {
+   display: flex;
+   align-items: center;
+   justify-content: center; /* Center the logos horizontally */
+   width: 100%; /* Ensure the container takes up the full width */
+}
+
+.logo-container img {
+   width: 50px; /* Adjust the width as needed */
+   margin: 0 5px; /* Adjust the margin for spacing between logos */
+}
+
+.right {
+   flex: 1;
+   text-align: right;
+}
+
+.right ul {
+   list-style: none;
+   padding: 0;
+   margin: 0;
+}
+
+.right li {
+   display: inline;
+   margin-right: 20px;
+}
+
+.right a {
+   text-decoration: none;
+   color: #fff;
+}
+
+/*                                      */
+
+
+
+/* Your existing CSS styles */
+/* ... */
+
+#content {
+   padding: 20px;
+   margin-left: 250px; /* Adjust based on your sidebar width */
+}
+
+.user-container {
+   background-color: #f9f9f9;
+   padding: 20px;
+   border-radius: 8px;
+   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+   margin-top: 20px;
+}
+
+h1 {
+   font-size: 24px;
+   margin-bottom: 20px;
+}
+
+.search-container {
+   margin-bottom: 20px;
+}
+
+input[type="text"] {
+   padding: 8px;
+   border-radius: 4px;
+   border: 1px solid #ccc;
+   margin-right: 10px;
+}
+
+button {
+   padding: 8px 16px;
+   border: none;
+   border-radius: 4px;
+   background-color: #007bff;
+   color: white;
+   cursor: pointer;
+}
+
+button:hover {
+   background-color: #0056b3;
+}
+
+table {
+   width: 100%;
+   border-collapse: collapse;
+}
+
+table th, table td {
+   border: 1px solid #ddd;
+   padding: 8px;
+   text-align: left;
+}
+
+table th {
+   background-color: #f2f2f2;
+   font-weight: bold;
+}
+
+
+/*-----------------------@media               */
+@media screen and (max-width: 825px) {
+    
+   .header h2{
+       font-size: 40px;
+   }
+}
+
+@media screen and (max-width: 825px) {
+   
+   .header h2{
+       font-size: 40px;
+   }
+}
+
+@media screen and (max-width: 763px) {
+   
+.form{
+   width: 250px;
+
+   }
+input{
+       padding: 10px;
+       margin: 10px;
+       border: none;
+       width: 200px;
+
+    }
+
+.left{
+   font-size: 10px;
+}
+
+.logo-container img{
+   width: 40px;
+   
+
+}
+.header h2{
+   font-size: 20px;
+}
+
+}
