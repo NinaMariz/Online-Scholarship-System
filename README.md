@@ -44,9 +44,13 @@ The Improved Online Scholarship System was designed specifically for High School
 This initiative aligns with the Sustainable Development Goals (SDGs), particularly contributing to Goal 4: Quality Education. By improving the scholarship system, the developers are actively supporting efforts to ensure inclusive and equitable quality education for all, promoting lifelong learning opportunities, and fostering a culture of innovation and excellence in education. The enhanced system aims to facilitate scholarship applications, ultimately making educational opportunities more accessible and aligned with global sustainability objectives.
 
 Technologies used
+
 Software Web Browser: Google Chrome
+
 Compiler: Visual Studio Code 
+
 Coding Process References: ChatGPT, Bard, w3Schools
+
 Language Used: HTML, CSS, PHP
 
 
