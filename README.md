@@ -3,36 +3,36 @@
 Members and their Contributions
 
 This is the breakdown of the percentage used:
-50% - Documentation
-50%- System
+100% - Documentation
+100%- System
 
 Aldea, Eufemia, R.  
-System – 50%
-Documentation- 50%
+System – 20%
+Documentation- 20%
 Aldea has achieved a 100% contribution to our project. She possesses proficient front-end programming skills and successfully executed the graphical user interface (GUI) for our system.   
 
 
 Catilo, Joven C. 
-System – 50%
-Documentation- 50%
+System – 10%
+Documentation- 20%
 Catilo has dedicated his entire effort, giving a complete 100% contribution to the team. He plays an important role in various aspects, including generating ideas, conceptualization, documentation, time management, and taking the initiative to lead the team toward the successful completion of specific tasks for each member. Additionally, he ensures that all team members can actively contribute in areas such as programming, documentation, and brainstorming.
 
 
 Nambio, Khorene M. 
-System – 50%
-Documentation- 50%
+System – 10%
+Documentation- 20%
 Nambio has achieved a perfect 100% contribution, playing a crucial role as a contributor in documenting our manuscript and actively taking initiatives to collaborate with the team.
 
 
 Onda, Nina Mariz C.
-System – 50%
-Documentation- 50%
+System – 20%
+Documentation- 20%
 Onda has made a full 100% contribution to our project. She excels in front-end programming, overseeing the development of the system's graphical user interface (GUI), and she also actively participates in back-end work to enhance the overall effectiveness of our system's functionalities.
 
 
 Trasporto, John Gabriel S. 
-System – 50%
-Documentation- 50%
+System – 40%
+Documentation- 20%
 Trasporto has made a complete 100% contribution to our project. Serving as the lead programmer on our team, he demonstrated exceptional proficiency in both front-end and back-end development. His exemplary execution ensures that our system is not only well-constructed but also highly accessible.
 
 
